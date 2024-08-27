@@ -132,6 +132,12 @@ post-list:
       # you can use these wildcards, {property} {value} {thumb}
       resultFoundTitleFormat: "{property} : {thumb}"
 
+# for about layout
+newhome:
+  title: new Home
+  button_name: About
+  email_title: email
+
 # for home layout
 home:
   title: Welcome
