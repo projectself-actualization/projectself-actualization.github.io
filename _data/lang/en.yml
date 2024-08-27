@@ -145,17 +145,11 @@ about:
   button_name: About
   email_title: email
 
-# for links layout
-links:
-  title: Links
-  button_name: Links
-  link_text: Web site
-  info_text: Info
 
 # for projects layout
 projects:
-  title: Projects
-  button_name: Projects
+  title: Services
+  button_name: Services
   read_more_text: Read more
   read_less_text: Read less
 

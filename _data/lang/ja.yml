@@ -139,24 +139,12 @@ home:
   new_posts_title: 新着記事
   new_posts_show_more_button: もっと見る ...
 
-# for archives layout
-archives:
-  title: アーカイブ
-  button_name: アーカイブ
-  page_header: アーカイブ
-
 # for about layout
 about:
   title: 私について
   button_name: 私について
   email_title: メール
 
-# for links layout
-links:
-  title: リンク
-  button_name: リンク
-  link_text: Webサイト
-  info_text: 説明
 
 # for projects layout
 projects:
