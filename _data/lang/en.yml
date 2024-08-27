@@ -134,8 +134,8 @@ post-list:
 
 # for about layout
 newhome:
-  title: new Home
-  button_name: About
+  title: newHome
+  button_name: newHome
   email_title: email
 
 # for home layout
