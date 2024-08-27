@@ -11,7 +11,7 @@ layout: default
 {%- if page.img %}
   {%- if site.data.conf.others.home.header_img_with_img_tag == true -%}
     {%- capture home_img_tag -%} <img src="{{ page.img }}" /> {%- endcapture -%}
-    {%- capture home_img_background_style -%} style="height: unset;" {%- endcapture -%}
+    {%- capture home_img_background_style -%} style="weight: 100%;" {%- endcapture -%}
   {% else %}
     {%- capture home_img_background_style -%} style="background-image:url('{{ page.img }}');" {%- endcapture -%}
   {%- endif -%}
