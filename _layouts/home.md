@@ -38,4 +38,3 @@ layout: default
     {{ content }}
   </div>
 </div>
-{% endif -%}
