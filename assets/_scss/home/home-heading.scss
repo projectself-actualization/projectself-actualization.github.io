@@ -12,7 +12,7 @@
   margin-top: calc(-1 * var(--text-spacing));
   margin-left: calc(-1 * var(--text-spacing));
   height: calc(100vw - (50vh / 2));
-  max-height: 500px;
+  max-height: 5000px;
   background-size: cover;
   border-radius: 10px;
   box-shadow: inset 0 -8px 5px -1px var(--home-heading-shadow-color);
@@ -22,8 +22,8 @@
 
 .home-heading > img {
   border-radius: 10px;
-  max-width: var(--main-container-width-limit);
-  width: 100%;
+  max-width: 3000px;
+  width: auto;
   height: auto;
 }
 
