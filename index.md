@@ -46,4 +46,10 @@ img: ":home-heading.png"
 {{ website_info_text_second }}
 {%- endcomment -%}
 
-"This is the content of my ABOUT"
+# Hello
+
+My name is Cynthia Lin and I’m a Licensed Clinical Social Worker who specializes in the treatment of anxiety, depression, perfectionism, and trauma through the lens of Dialectical Behavior Therapy. I have a special interest in racial and cultural identities, especially working with East Asian individuals as I am a first-and-half-generation Chinese immigrant. 
+
+I graduated from Lynbrook High School, where I witnessed and experienced the demanding academic expectations,therefore I understood the challenges of my teen clients across the greater Bay Area. I sincerely believe that there can be a balance between a hardworking attitude and a slower pace to stop and smell the roses. I support my clients by listening attentively, collaborating to create a strategic plan, and reinforcing via strength-based feedback. I take pride in my cultural competencies working with the East Asian population and have the linguistic advantage of being bilingual in Mandarin and English. 
+
+If you are interested in taking a courageous step forward to get professional help on your mental health, please reach me via email at Cynthia@projectself-actualization.com or via phone 408-357-3013, for a complementary 15-minute consultation call. 

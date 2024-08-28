@@ -38,7 +38,26 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+{%- comment -%}
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
 {{ website_info_text_second }}
+{%- endcomment -%}
+
+# Education and Licensure
+
+Bachelor of Psychology, minor in Child Development
+
+California Polytechnic State University, San Luis Obispo
+Master of Social Work
+
+Delaware State University
+Licensed Clinical Social Worker #113893
+
+Licensed since 2023
+
+The best way to describe my style as a therapist is that I can hold the space for your vulnerability yet also not afraid to speak about the areas for improvement. I hold my clients accountable but in an empathetic and caring manner. As a modern therapist, I laugh with you while you chuckle to some fire memes, and I can also cuss with you while you complain about that frustrating situation at work last week. My clients are the captain of the ship, and I am the first mate to support them to get to where they want to be.
+
+I prioritize the mind and body connection to promote emotional wellbeing. Weightlifting, yoga, walking my senior Pembroke Welsh Corgi (Teemo!) are some of my favorite ways to move my body!
+
