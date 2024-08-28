@@ -12,30 +12,27 @@ page_data:
     back_color: "lightblue"
 
   category:
-     - title: "Example"
-       type: id_example
+     - title: "Therapy"
+       type: id_Therapy
        #color: "gray"
-     - title: "Picture"
-       type: id_picture
+     - title: "Documentation"
+       type: id_Documentation
        #color: "#62b462"
-     - title: "Quote"
-       type: id_quote
-       #color: "#2FD0ED"
 
   list:
     # example
-    - type: id_example
+    - type: id_Therapy
       project_name: "Individual Therapy (50 minutes)"
       project_excerpt: "$200/session"
       img: ":project1_thumb.jpg"
 
-    - type: id_example
+    - type: id_Therapy
       project_name: "Family Therapy (80 minutes)"
       project_excerpt: "$300/session"
       img: ":project1_thumb.jpg"
 
-    - type: id_example
-      project_name: "Documentation writing (60 minutes)"
+    - type: id_Documentation
+      project_name: "Documentation Writing (60 minutes)"
       project_excerpt: "$50/session"
       img: ":project1_thumb.jpg"
 
