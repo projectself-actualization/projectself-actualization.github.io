@@ -157,8 +157,8 @@ about:
 projects:
   title: Services
   button_name: Services
-  read_more_text: Read more
-  read_less_text: Read less
+  # read_more_text: Read more
+  # read_less_text: Read less
 
 # for privacy-policy layout
 privacy-policy:
