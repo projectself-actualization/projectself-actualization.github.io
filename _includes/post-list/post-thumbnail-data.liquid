@@ -20,4 +20,8 @@
 
 {%- include post-list/post-custom-excerpt.liquid content = include.post.content -%}
 
+{%- include post_common/post-info-data.liquid url=include.post.url content = include.post.content title = include.post.title comment_off = include.post.comments_disable -%}
+
+{%-comment-%}
 {%- include post_common/post-info-data.liquid date = include.post.date url=include.post.url content = include.post.content title = include.post.title comment_off = include.post.comments_disable -%}
+{%-endcomment-%}
