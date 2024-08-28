@@ -12,10 +12,10 @@ lng:
   country: CN
   switch_title: Cn
   offer:
-    title: 言語
-    msg_page: このページを日本語で表示する。
+    title: 语言
+    msg_page: 使用中文浏览此页
     # if page translation is not available, use this.
-    msg_site: 日本語ホームへ
+    msg_site: 回到首页
 
 date:
   # if %b is used in the long format, it will be replaced with the corresponding item in 'months' list below.
@@ -26,36 +26,36 @@ date:
   months: [1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月]
 
 not_found:
-  header: ページが見つかりませんでした。
-  line1: リクエストされたページが見つかりませんでした。
-  line2: メニューを試すか、利用可能な場合はサイト検索を試してください。
+  header: 找不到网页
+  line1: 您访问的页面不存在
+  line2: 请使用“菜单”，或者重新搜索
 
-no_translation_tooltip: 訳がありません
+no_translation_tooltip: 未翻译
 
 navigation:
-  contact_header: コンタクト
+  contact_header: 联系我们
 
 color_scheme_switch_tooltip: 配色
 
 search:
-  placeholder: 検索
-  noResultText: 何も見つかりませんでした。
+  placeholder: 搜索
+  noResultText: 没有找到任何结果
 
 image_viewer:
-  load_error: 画像が読み込めませんでした。
+  load_error: 图像无法被加载
 
 copyright:
-  additional_text: " 著作権で保護されています。"
+  additional_text: " All rights reserved."
 
 creative_commons:
-  some_rights_reserved: 一部の権利は留保されています。
+  some_rights_reserved: Some rights reserved.
   # check _data/owner/[language].yml for license type.
-  by: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 4.0 国際 ライセンスの下に提供されています。
-  by-nd: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 - 改変禁止 4.0 国際 ライセンスの下に提供されています。
-  by-sa: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンスの下に提供されています。
-  by-nc: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンスの下に提供されています。
-  by-nc-nd: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンスの下に提供されています。
-  by-nc-sa: 特に明記されていない限り、このWebサイトのコンテンツはクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスの下に提供されています。
+  by: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution 4.0 International License.
+  by-nd: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+  by-sa: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  by-nc: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+  by-nc-nd: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+  by-nc-sa: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 # for 404 layout
 not-found:
@@ -65,23 +65,23 @@ not-found:
 post:
   read_time:
     unit: "分"
-    text: "で読めます"
+    text: "阅读"
     # c for char w for word
     word_char: c
     # char or words per minute
     per_minute: 500
   pager_buttons:
-    older_post: "← 古い投稿へ"
-    newer_post: "新しい投稿へ →"
-    first_post: 最初
-    last_post: 最後
+    older_post: "← 更早"
+    newer_post: "更新 →"
+    first_post: 最早
+    last_post: 最新
   comments:
-    noscript: コメントを表示するには、JavaScriptを有効にしてください。
+    noscript: 请使用Jacacript来浏览留言
     disqus:
-      count_title: コメント
-      click_to_load: "コメントを表示する"
+      count_title: 留言
+      click_to_load: "加载留言"
       consent:
-        title: コメント (Disqus.com)
+        title: 留言 (Disqus.com)
         text: >
           コメント機能はサードパーティによってホストされています。 外部コンテンツを表示することにより、disqus.comの$termsと$privacy_policyに同意したことになります。
           <br>ターゲットを絞った広告をオプトアウトする場合は、$settings_linkを開き、「opt-out」ボタンをクリックして閉じます。 ここに戻ってコメントを表示してください。
@@ -134,33 +134,33 @@ post-list:
 
 # for home layout
 home:
-  title: ようこそ
-  button_name: ホーム
-  new_posts_title: 新着記事
-  new_posts_show_more_button: もっと見る ...
+  title: 欢迎
+  button_name: 首页
+  # new_posts_title: 新着記事
+  # new_posts_show_more_button: もっと見る ...
 
 # for about layout
 about:
-  title: 私について
-  button_name: 私について
-  email_title: メール
+  title: 关于
+  button_name: 关于
+  email_title: 电子邮件
 
 
 # for projects layout
 projects:
-  title: プロジェクト
-  button_name: プロジェクト
-  read_more_text: 続きを読む
-  read_less_text: 閉じる
+  title: 服务项目
+  button_name: 服务项目
+  # read_more_text: 続きを読む
+  # read_less_text: 閉じる
 
 # for privacy-policy layout
 privacy-policy:
-  title: &privacy_policy_title プライバシーポリシー
+  title: &privacy_policy_title 隐私条款
 
 # constants to be replaced for
 constants:
-  greetings: こんにちは
-  welcome: ようこそ
+  greetings: 您好
+  welcome: 欢迎
   sample: サンプル
 
 # for contact form
@@ -171,54 +171,54 @@ contact_form:
 # for cookie consent
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
-  side_nav_setting_button_tooltip: &cookie_settings クッキー設定
+  side_nav_setting_button_tooltip: &cookie_settings Cookie settings
   panel_bar:
     msg: >
-      当Webサイトは、機能を最適化するためにクッキーを使用しています。
-      承認後に有効になります。
-    privacy_msg: $privacy_linkを確認する。
+      This website uses cookies to optimize site functionality.
+      It will be activated with your approval.
+    privacy_msg: Check $privacy_link.
     buttons:
-      accept: &accept_button 全て許可
-      settings: 設定
-      deny: &deny_button 拒否
+      accept: &accept_button Allow all
+      settings: Customize
+      deny: &deny_button Deny
   panel_settings:
     title: *cookie_settings
     msg: >
-      当Webサイトは、機能を最適化するためにクッキーを使用しています。
-      承認後に有効になります。クッキーポリシーについては、以下の各項目をクリックしてください。
-    privacy_msg: $privacy_linkを確認する。
+      This website uses cookies to optimize site functionality.
+      It will be activated with your approval. Please click each item below for cookie policy.
+    privacy_msg: Check $privacy_link.
     buttons:
       accept: *accept_button
-      save: 選択を許可
+      save: Allow selection
       deny: *deny_button
-    always_active: 常時有効
+    always_active: Always active
     consent_types:
       necessary:
-        title: 不可欠なクッキー
+        title: Strictly necessary cookies
         info: >
-          このCookieは、Webサイトの機能に不可欠であり、無効にすることはできません。
-          通常、配色などのサイト機能を変更したときに設定されます。
-          このCookieには、個人を特定できる情報は保存されません。
+          These cookies are essential for the website function and cannot be disable.
+          They are usually set when site function like color scheme etc. is changed.
+          These cookies do not store any personally identifiable information.
           $gtag_info
       analytics:
-        title: パフォーマンスクッキー
+        title: Performance cookies
         info: $gtag_info
       preferences:
-        title: 機能性クッキー
+        title: Functionality cookies
         info: $gtag_info
       advertising:
-        title: ターゲティング広告クッキー
+        title: Targeting and advertising cookies
         info: $gtag_info
     gtag_info:
       # from https://support.google.com/tagmanager/answer/10718549#consent-types
       ad_storage: >
-        広告に関連する保存（Cookie など）を有効にします。
+        Enables storage (such as cookies) related to advertising.
       analytics_storage: >
-        訪問時の滞在時間などの分析に関連する保存（Cookie など）を有効にします。
+        Enables storage (such as cookies) related to analytics e.g. visit duration.
       functionality_storage: >
-        Webサイトまたはアプリの機能（言語設定など）をサポートする保存を有効にします。
+        Enables storage that supports the functionality of the website or app e.g. language settings.
       personalization_storage: >
-        おすすめの動画など、パーソナライズに関連する保存を有効にします。
+        Enables storage related to personalization e.g. video recommendations.
       security_storage: >
-        認証機能、不正行為防止、その他のユーザー保護など、
-        セキュリティに関連する保存を有効にします。
+        Enables storage related to security such as authentication functionality,
+        fraud prevention, and other user protection.
