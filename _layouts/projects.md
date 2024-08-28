@@ -54,10 +54,6 @@ layout: default
         {%- endif %}
         <div class="col-md-9 project-header">
           <h1>{{ list.project_name }}</h1><h4>{{ list.project_excerpt }}</h4>
-          <div class="meta-container">
-            <p class="category">#{{ category.title }}</p>
-          </div>
-          <hr>
         </div>
       </div>
       <div class="row">

@@ -35,7 +35,7 @@ page_data:
       img: ":project1_thumb.jpg"
 
     - type: id_example
-      project_name: "Documentation/report writing"
+      project_name: "Documentation writing"
       project_excerpt: "$50/session"
       img: ":project1_thumb.jpg"
 
