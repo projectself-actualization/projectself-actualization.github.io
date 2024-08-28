@@ -39,7 +39,11 @@ img: ":home-heading.png"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+{%- comment -%}
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
 {{ website_info_text_second }}
+{%- endcomment -%}
+
+"This is the content of my ABOUT"
