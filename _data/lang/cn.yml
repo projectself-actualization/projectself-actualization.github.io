@@ -3,14 +3,14 @@
 # Licensed under MIT
 
 lng:
-  name: 日本語
+  name: 中文
   # based on ISO_639-1 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-  code: ja
+  code: cn
   # specifically needed for open-graph meta og:locale. if open_graph or html_lng_with_country_code not enabled in _data/conf/main.yml, it's not necessary.
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-  country: JP
-  switch_title: Jp
+  country: CN
+  switch_title: Cn
   offer:
     title: 言語
     msg_page: このページを日本語で表示する。
