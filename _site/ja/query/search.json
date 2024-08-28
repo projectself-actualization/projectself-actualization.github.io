@@ -1,0 +1,81 @@
+[
+    {
+    "title"    : "サンプル"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, sample"
+    ,"url"      : "/ja/2021-11-16-Test-page7"
+    ,"date"     : "2021年11月16日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  },{
+    "title"    : "サンプル"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, sample"
+    ,"url"      : "/ja/2021-10-15-Test-page6"
+    ,"date"     : "2021年10月15日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  },{
+    "title"    : "サンプル"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, test"
+    ,"url"      : "/ja/2021-10-14-Test-page5"
+    ,"date"     : "2021年10月14日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  },{
+    "title"    : "サンプル"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, example post"
+    ,"url"      : "/ja/2021-09-13-Test-page4"
+    ,"date"     : "2021年09月13日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  },{
+    "title"    : "サンプル"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, sample"
+    ,"url"      : "/ja/2021-09-12-Test-page3"
+    ,"date"     : "2021年09月12日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  },{
+    "title"    : "サンプル"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, test"
+    ,"url"      : "/ja/2021-08-11-Test-page2"
+    ,"date"     : "2021年08月11日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  },{
+    "title"    : "サンプル"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, example post"
+    ,"url"      : "/ja/2021-08-10-Test-page1"
+    ,"date"     : "2021年08月10日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  },{
+    "title"    : "プロジェクト"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "/ja/tabs/projects.html"
+    ,"date"     : "2024年08月27日"
+    ,"content"  : "main header \\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8 info \\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8\\u30DA\\u30FC\\u30B8\\u306E\\u8AAC\\u660E\\u306F\\u3053\\u3061\\u3089\\u3002 text_color white img :projects-heading.jpg back_color lightblue category title \\u4F8B type id_example color gray title \\u5199\\u771F type id_picture color #62b462 title \\u540D\\u8A00 type id_quote color #2FD0ED list type id_example project_name \\u30B5\\u30F3\\u30D7\\u30EB\\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8 project_excerpt \\u4F8B img :project1_thumb.jpg img_title img title1 date 2021-03-13 post # Examples This is an example page to display markdown related styles for Mr. Green Jekyll Theme. ### Headings (centered) :data-align=\\ center\\ # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 *** ### Paragraphs #### Paragraph **William Shakespeare** Let me not to the marriage of true minds Admit impediments. Love is not love Which alters when it alteration finds Or bends with the remover to remove. O no it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand'ring barque Whose worth's unknown although his height be taken. Love's not Time's fool though rosy lips and cheeks Within his bending sickle's compass come; Love alters not with his brief hours and weeks But bears it out even to the edge of doom. If this be error and upon me proved I never writ nor no man ever loved. #### Texts Quoted text `Hello world` Bold text **Hello world** Italic text _Hello world_ kbd text <kbd>Hello world</kbd> #### Blockquote > **William Shakespeare** Let me not to the marriage of true minds Admit impediments. Love is not love Which alters when it alteration finds Or bends with the remover to remove. O no it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand'ring barque Whose worth's unknown although his height be taken. Love's not Time's fool though rosy lips and cheeks Within his bending sickle's compass come; Love alters not with his brief hours and weeks But bears it out even to the edge of doom. If this be error and upon me proved I never writ nor no man ever loved. ### Link This is Mr. Green Jekyll Theme(https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) a simple theme built for Jekyll(https://jekyllrb.com/). ### Picture !such a lovely place(:projects-heading.jpg) ### Picture (centered) !such a lovely place(:project1_thumb.jpg):data-align=\\ center\\ ### Lists - Apple - Banana - Orange 1. Fruits 1. Apples - Granny Smith - Mutsu 1. Bananas - Cavendish - Red 1. Vegetables *** ### Tables #### Small Table (centered) | Fruits(not aligned) | Alignment (centered) | num (right align) | | ------------------- | :------------------: | ----------------: | | Apple | centered | 9999 | | Banana | centered long text | 999 | | Orange | centered | 99 | | Lemon | centered | 9 | :data-align=\\ center\\ #### Wide Table (centered) scroll enabled when page is narrow | Fruits | num (left align) | num (right align) | num | num | num | | ------ | :--------------- | ----------------: | ---- | ---- | ---- | | Apple | 1111 | 1111 | 2222 | 3333 | 4444 | | Banana | 111 | 111 | 222 | 333 | 444 | | Orange | 11 | 11 | 22 | 33 | 44 | | Lemon | 1 | 1 | 2 | 3 | 4 | :data-align=\\ center\\ #### Wider Table scroll enabled when page is narrow | Fruits | num (left align) | num (right align) | num | num | num | num | num | num | | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- | | Apple | 1111 | 1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 | | Banana | 111 | 111 | 222 | 333 | 444 | 555 | 666 | 777 | | Orange | 11 | 11 | 22 | 33 | 44 | 55 | 66 | 77 | | Lemon | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ### Code #### Quote ```python for i in range(5 10): print(i) ``` type id_picture project_name \\u30B5\\u30F3\\u30D7\\u30EB\\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8 project_excerpt \\u5199\\u771F img :project2_thumb.jpg img_title img title2 date 2021-04-23 post # Title This is project content. !Image(:project2_thumb.jpg) type id_quote project_name \\u30B5\\u30F3\\u30D7\\u30EB\\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8 project_excerpt William Shakespeare date 2021-05-27 post Let me not to the marriage of true minds Admit impediments. Love is not love Which alters when it alteration finds Or bends with the remover to remove. O no it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand'ring barque Whose worth's unknown although his height be taken. Love's not Time's fool though rosy lips and cheeks Within his bending sickle's compass come; Love alters not with his brief hours and weeks But bears it out even to the edge of doom. If this be error and upon me proved I never writ nor no man ever loved. type id_quote project_name \\u30B5\\u30F3\\u30D7\\u30EB\\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8 project_excerpt Albert Einstein img :project2_thumb.jpg img_title img title4 date 2021-06-08 post Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. type id_quote project_name \\u30B5\\u30F3\\u30D7\\u30EB\\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8 project_excerpt Mae West img :project1_thumb.jpg img_title img title5 date 2021-08-20 post You only live once but if you do it right once is enough. type id_quote project_name \\u30B5\\u30F3\\u30D7\\u30EB\\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8 project_excerpt Mahatma Gandhi img :project2_thumb.jpg img_title img title6 date 2021-12-20 post Be the change that you wish to see in the world."
+  },{
+    "title"    : "サンプル"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "/ja/tabs/links.html"
+    ,"date"     : "2024年08月27日"
+    ,"content"  : "main header \\u30EA\\u30F3\\u30AF info \\u30EA\\u30F3\\u30AF\\u30DA\\u30FC\\u30B8\\u306E\\u8AAC\\u660E\\u306F\\u3053\\u3061\\u3089\\u3002 category title JekyII / Liquid type id_jekyiiliquid color gray title Web\\u30C7\\u30B6\\u30A4\\u30F3 type id_webdesign color #F4A273 title \\u30D7\\u30ED\\u30B0\\u30E9\\u30DF\\u30F3\\u30B0 type id_programming color #62b462 list nil type id_programming title Stack OverFlow url https://stackoverflow.com/ info Stack Overflow\\u306F\\u3001\\u30D7\\u30ED\\u3084\\u71B1\\u72C2\\u7684\\u306A\\u30D7\\u30ED\\u30B0\\u30E9\\u30DE\\u30FC\\u5411\\u3051\\u306E\\u8CEA\\u7591\\u5FDC\\u7B54Web\\u30B5\\u30A4\\u30C8\\u3067\\u3059\\u3002 type id_jekyiiliquid title Jekyll url https://jekyllrb.com/ info \\u30D7\\u30EC\\u30FC\\u30F3\\u30C6\\u30AD\\u30B9\\u30C8\\u3092\\u9759\\u7684\\u306AWeb\\u30B5\\u30A4\\u30C8\\u3084\\u30D6\\u30ED\\u30B0\\u306B\\u5909\\u63DB\\u3057\\u307E\\u3059\\u3002 type id_jekyiiliquid title Jekyll\\u30C1\\u30FC\\u30C8\\u30B7\\u30FC\\u30C8 url https://cloudcannon.com/community/jekyll-cheat-sheet/ info \\u899A\\u3048\\u3066\\u304A\\u304F\\u3079\\u304DJekyll\\u5909\\u6570\\u3068\\u30D5\\u30A3\\u30EB\\u30BF\\u30FC\\u306F\\u975E\\u5E38\\u306B\\u591A\\u304F\\u3001\\u3059\\u3079\\u3066\\u3092\\u982D\\u306E\\u4E2D\\u306B\\u5165\\u308C\\u3066\\u304A\\u304F\\u306E\\u306F\\u96E3\\u3057\\u3044\\u5834\\u5408\\u304C\\u3042\\u308A\\u307E\\u3059\\u3002 \\u3053\\u306E\\u30C1\\u30FC\\u30C8\\u30B7\\u30FC\\u30C8\\u306F\\u3001Jekyll\\u304C\\u5B9F\\u884C\\u3067\\u304D\\u308B\\u3059\\u3079\\u3066\\u306E\\u3053\\u3068\\u306E\\u30AF\\u30A4\\u30C3\\u30AF\\u30EA\\u30D5\\u30A1\\u30EC\\u30F3\\u30B9\\u3068\\u3057\\u3066\\u4F7F\\u3048\\u307E\\u3059\\u3002 type id_jekyiiliquid title \\u30C7\\u30B6\\u30A4\\u30CA\\u30FC\\u5411\\u3051Liquid url https://github.com/Shopify/liquid/wiki/Liquid-for-Designers info \\u30C7\\u30B6\\u30A4\\u30CA\\u30FC\\u5411\\u3051Liquid\\u7528GitHub wiki type id_jekyiiliquid title \\u30D7\\u30ED\\u30B0\\u30E9\\u30DE\\u30FC\\u5411\\u3051Liquid url https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers info \\u30D7\\u30ED\\u30B0\\u30E9\\u30DE\\u30FC\\u5411\\u3051Liquid\\u7528GitHub wiki type id_jekyiiliquid title Liquid\\u30EA\\u30D5\\u30A1\\u30EC\\u30F3\\u30B9 url https://shopify.dev/api/liquid/ info Liquid\\u306F\\u3001Shopify\\u306B\\u3088\\u3063\\u3066\\u4F5C\\u6210\\u3055\\u308C\\u3001Ruby\\u3067\\u8A18\\u8FF0\\u3055\\u308C\\u305F\\u30C6\\u30F3\\u30D7\\u30EC\\u30FC\\u30C8\\u8A00\\u8A9E\\u3067\\u3059\\u3002 GitHub\\u3067\\u30AA\\u30FC\\u30D7\\u30F3\\u30BD\\u30FC\\u30B9\\u30D7\\u30ED\\u30B8\\u30A7\\u30AF\\u30C8\\u3068\\u3057\\u3066\\u5229\\u7528\\u3067\\u304D\\u308B\\u3088\\u3046\\u306B\\u306A\\u308A\\u307E\\u3057\\u305F\\u3002 type id_webdesign title W3Schools url https://www.w3schools.com/ info W3Schools\\u306F\\u3001Web\\u306E\\u3059\\u3079\\u3066\\u306E\\u4E3B\\u8981\\u8A00\\u8A9E\\u3067\\u3001\\u7121\\u6599\\u306E\\u30AA\\u30F3\\u30E9\\u30A4\\u30F3\\u30C1\\u30E5\\u30FC\\u30C8\\u30EA\\u30A2\\u30EB\\u3001\\u30EA\\u30D5\\u30A1\\u30EC\\u30F3\\u30B9\\u3001\\u304A\\u3088\\u3073\\u6F14\\u7FD2\\u3092\\u63D0\\u4F9B\\u3057\\u3066\\u3044\\u307E\\u3059\\u3002 HTML\\u3001CSS\\u3001JavaScript\\u3001Python\\u3001SQL\\u3001Java\\u306A\\u3069\\u306E\\u4EBA\\u6C17\\u306E\\u3042\\u308B\\u30C6\\u30FC\\u30DE\\u3092\\u30AB\\u30D0\\u30FC\\u3057\\u3066\\u3044\\u307E\\u3059\\u3002"
+  },{
+    "title"    : "ようこそ"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "/ja/"
+    ,"date"     : "2024年08月27日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  },{
+    "title"    : "私について"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "/ja/tabs/about.html"
+    ,"date"     : "2024年08月27日"
+    ,"content"  : "こんにちは サンプル サンプル サンプル サンプル サンプル"
+  }
+  ]
+
