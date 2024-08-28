@@ -25,7 +25,18 @@ page_data:
   list:
     # example
     - type: id_example
-      project_name: "Example Project"
+      project_name: "Individual Therapy (50 minutes)"
+      project_excerpt: "$200/session"
+      img: ":project1_thumb.jpg"
+
+    - type: id_example
+      project_name: "Family Therapy (80 minutes)"
+      project_excerpt: "$300/session"
+      img: ":project1_thumb.jpg"
+
+    - type: id_example
+      project_name: "Documentation/report writing"
+      project_excerpt: "$50/session"
       img: ":project1_thumb.jpg"
 
 #  list:
